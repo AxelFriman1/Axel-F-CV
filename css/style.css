@@ -1,0 +1,22 @@
+body
+{
+    background-color: #ded4af
+}
+.red-text
+{
+font-family: Lucida Sans, monospace;
+    color: #ed2828
+}
+h1
+{
+    text-align: center;
+}
+.image-size
+{
+width: 300px;
+height: 300px;
+border-radius: 50%;
+border-width: 10px;
+border-style: solid;
+border-color: #ed2828
+}
